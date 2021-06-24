@@ -1,2 +1,2 @@
 # ML2021
-Machine Learning Lab
+Machine Learning Labs
